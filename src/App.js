@@ -21,6 +21,7 @@ function App() {
   // }
   return(
     <SetCalc/>
+    <h1>anjnxjd</h1>
   // <div className='Add'> 
   //   <h1>Adding two Numbers</h1> 
   //   <div className='input-number'> 
